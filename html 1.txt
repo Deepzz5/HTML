@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<section class="cos">
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLsrsf4lTCluDF2ojW7iny6KND9Nin5Dexq7SfvTIyNz-aAAe75skZhA5LiEe579XttR-8-EG0lmKIv1hilXRawFWvOYWoYSNUWeXASOCwBRT2zdBhaiL72SE" alt="">
+        <p>Lakme Absolute Perfect Radiance Brightening Night Cream 50 gm</p>
+        <button>Buy now</button>
+    </div>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEhx4WJ2CN6dc9G5Dm9xLirsBuK5HzRMsgwQ&s" alt="">
+        <p>lakme Absolute Makeup Master Tools Dual Ended Blush and Contour Brush</p>
+        <button>Buy now</button>
+    </div>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5A9M_b6Df0mtYo1-RU-nMkGATMrxW8VD-w&s" alt="">
+        <p>LAKMÉ Cream Light Coverage Foundation Natural Finish Bronze For All Skin 25 Ml,2 Count,Beige.</p>
+        <button>Buy now</button>
+    </div>
+    </section>
+    <section>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcOrlp31OPaNwqlmB71eD4AQnGxiDFS5P7Q&s" alt="">
+        <p>Lakme 9to5 Powerplay Priming Matte Lipstick</p>
+        <button>Buy now</button>
+    </div>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8O0DAAf8xB3_AAugd_b-uvo3_9kucPhkgQ&s" alt="">
+        <p>6 Colors Matte Nude Lipstick Set Liquid....</p>
+        <button>Buy now</button>
+    </div>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Pjc7jwgsb7vgJdFQPbTIbOAlSVqxODwyHA&s" alt="">
+        <p>The Derma Co 10% Niacinamide Serum.</p>
+        <button>Buy now</button>
+    </div>
+    </section>
+    <link rel="stylesheet" href="image.css">
+</body>
+</html>
+
+CSS CODE:
+
+section img{
+    width:400px;
+    height:350px;
+    border-radius:50px;
+    margin-left:50px;
+    padding:0px;
+}
+.cos{
+    font-size: 20px;
+}
+section{
+    width:400px;
+    height:350px;
+    border-radius:50px;
+    margin-left:40px;
+    padding:80px;
+    display:flex;
+    font-size: 20px;
+}
